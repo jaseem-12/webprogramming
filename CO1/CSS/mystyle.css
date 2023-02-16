@@ -1,0 +1,22 @@
+<html>
+<body>
+
+body {
+  background-color: lightblue;
+}
+
+p{
+    font-size: 150%;
+    color : red;
+    font-family: Lucida Console;
+    background-color:yellow;
+   }
+p1{
+    font-size: 150%;
+    color : green;
+    font-family: Arial;
+   }
+
+</body>
+</html>
+
